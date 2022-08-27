@@ -1,0 +1,17 @@
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/bin/Debug/net6.0/ClearArchitecture.Infrastructure.deps.json
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/bin/Debug/net6.0/ClearArchitecture.Infrastructure.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/bin/Debug/net6.0/ClearArchitecture.Infrastructure.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/ClearArchitecture.Infrastructure.csproj.AssemblyReference.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/ClearArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/ClearArchitecture.Infrastructure.AssemblyInfoInputs.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/ClearArchitecture.Infrastructure.AssemblyInfo.cs
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/ClearArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/ClearArchitecture.Infrastructure.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/refint/ClearArchitecture.Infrastructure.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/ClearArchitecture.Infrastructure.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/ref/ClearArchitecture.Infrastructure.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/bin/Debug/net6.0/ClearArchitecture.Application.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/bin/Debug/net6.0/ClearArchitecture.Domain.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/bin/Debug/net6.0/ClearArchitecture.Application.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/bin/Debug/net6.0/ClearArchitecture.Domain.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/Debug/net6.0/ClearArchitecture.Infrastructure.csproj.CopyComplete

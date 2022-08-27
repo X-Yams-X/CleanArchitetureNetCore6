@@ -1,0 +1,12 @@
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/bin/Debug/net6.0/ClearArchitecture.Domain.deps.json
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/bin/Debug/net6.0/ClearArchitecture.Domain.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/bin/Debug/net6.0/ClearArchitecture.Domain.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ClearArchitecture.Domain.csproj.AssemblyReference.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ClearArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ClearArchitecture.Domain.AssemblyInfoInputs.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ClearArchitecture.Domain.AssemblyInfo.cs
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ClearArchitecture.Domain.csproj.CoreCompileInputs.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ClearArchitecture.Domain.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/refint/ClearArchitecture.Domain.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ClearArchitecture.Domain.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ref/ClearArchitecture.Domain.dll

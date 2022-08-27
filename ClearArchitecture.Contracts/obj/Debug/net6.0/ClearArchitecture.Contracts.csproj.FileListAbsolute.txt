@@ -1,0 +1,12 @@
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/bin/Debug/net6.0/ClearArchitecture.Contracts.deps.json
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/bin/Debug/net6.0/ClearArchitecture.Contracts.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/bin/Debug/net6.0/ClearArchitecture.Contracts.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ClearArchitecture.Contracts.csproj.AssemblyReference.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ClearArchitecture.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ClearArchitecture.Contracts.AssemblyInfoInputs.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ClearArchitecture.Contracts.AssemblyInfo.cs
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ClearArchitecture.Contracts.csproj.CoreCompileInputs.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ClearArchitecture.Contracts.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/refint/ClearArchitecture.Contracts.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ClearArchitecture.Contracts.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ref/ClearArchitecture.Contracts.dll

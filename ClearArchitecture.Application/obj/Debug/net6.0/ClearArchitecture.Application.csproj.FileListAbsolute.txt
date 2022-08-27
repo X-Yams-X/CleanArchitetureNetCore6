@@ -1,0 +1,15 @@
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/bin/Debug/net6.0/ClearArchitecture.Application.deps.json
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/bin/Debug/net6.0/ClearArchitecture.Application.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/bin/Debug/net6.0/ClearArchitecture.Application.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/ClearArchitecture.Application.csproj.AssemblyReference.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/ClearArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/ClearArchitecture.Application.AssemblyInfoInputs.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/ClearArchitecture.Application.AssemblyInfo.cs
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/ClearArchitecture.Application.csproj.CoreCompileInputs.cache
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/ClearArchitecture.Application.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/refint/ClearArchitecture.Application.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/ClearArchitecture.Application.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/ref/ClearArchitecture.Application.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/bin/Debug/net6.0/ClearArchitecture.Domain.dll
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/bin/Debug/net6.0/ClearArchitecture.Domain.pdb
+/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/obj/Debug/net6.0/ClearArchitecture.Application.csproj.CopyComplete

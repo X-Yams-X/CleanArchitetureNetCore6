@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7I7bf7YGo7pWBkm51wPntLmGROg2i9LHn3vmzZwz0eI=",
+  "Source": "ClearArchitecture.Api",
+  "BasePath": "_content/ClearArchitecture.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,1 @@
+# CleanArchitetureNetCore6

@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/ClearArchitecture.Domain.csproj": {}
+    "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Domain\\ClearArchitecture.Domain.csproj": {}
   },
   "projects": {
-    "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/ClearArchitecture.Domain.csproj": {
+    "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Domain\\ClearArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/ClearArchitecture.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Domain\\ClearArchitecture.Domain.csproj",
         "projectName": "ClearArchitecture.Domain",
-        "projectPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/ClearArchitecture.Domain.csproj",
-        "packagesPath": "/Users/yimy/.nuget/packages/",
-        "outputPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/",
+        "projectPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Domain\\ClearArchitecture.Domain.csproj",
+        "packagesPath": "C:\\Users\\yilma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/yimy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yilma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net6.0": {
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

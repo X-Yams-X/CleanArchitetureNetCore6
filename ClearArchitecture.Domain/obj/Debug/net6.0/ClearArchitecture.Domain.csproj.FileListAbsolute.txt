@@ -10,3 +10,15 @@
 /Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/refint/ClearArchitecture.Domain.dll
 /Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ClearArchitecture.Domain.pdb
 /Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Domain/obj/Debug/net6.0/ref/ClearArchitecture.Domain.dll
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\bin\Debug\net6.0\ClearArchitecture.Domain.deps.json
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\bin\Debug\net6.0\ClearArchitecture.Domain.dll
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\bin\Debug\net6.0\ClearArchitecture.Domain.pdb
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\obj\Debug\net6.0\ClearArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\obj\Debug\net6.0\ClearArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\obj\Debug\net6.0\ClearArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\obj\Debug\net6.0\ClearArchitecture.Domain.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\obj\Debug\net6.0\ClearArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\obj\Debug\net6.0\ClearArchitecture.Domain.dll
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\obj\Debug\net6.0\refint\ClearArchitecture.Domain.dll
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\obj\Debug\net6.0\ClearArchitecture.Domain.pdb
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Domain\obj\Debug\net6.0\ref\ClearArchitecture.Domain.dll

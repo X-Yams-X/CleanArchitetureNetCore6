@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P9X9Hp0UGHeC8DUdx1WjW/gPjhHcI7WClQqhlxio4wiXOSgzGhngWNWpwvs6bN+w4R1xal5CnWZ25Fpmyo4leg==",
+  "dgSpecHash": "a1g1UFm1Ba51y5Ga/iyITOneWaJqAwJKIq3v9fA/81AjJEDXeg2s9uUSRm8SSobE3eGUQZ5XhAnLWOQstiO1gw==",
   "success": true,
-  "projectFilePath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/ClearArchitecture.Application.csproj",
+  "projectFilePath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Application\\ClearArchitecture.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

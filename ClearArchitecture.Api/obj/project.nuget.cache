@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JoSZYxqCovebmKsXff08sxmCN6Ngqkrzlvp2iA4ZHPMrzQabQNccrPeq2cQoUDL9mZ3ocPVaGJYhlxLQCoiSqA==",
+  "dgSpecHash": "Yd6+7SKB0l7Y61pS+u8u89UhYe39TmBndiaVcV3w6NSnBcl1vHpaY6yaVXTWsCuxQ0UN4GXrh2YFOCLWpodkOA==",
   "success": true,
-  "projectFilePath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Api/ClearArchitecture.Api.csproj",
-  "expectedPackageFiles": [
-    "/Users/yimy/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/yimy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/yimy/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "/Users/yimy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "/Users/yimy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/yimy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Api\\ClearArchitecture.Api.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

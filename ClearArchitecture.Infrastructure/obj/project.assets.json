@@ -45,32 +45,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/yimy/.nuget/packages/": {}
+    "C:\\Users\\yilma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/ClearArchitecture.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Infrastructure\\ClearArchitecture.Infrastructure.csproj",
       "projectName": "ClearArchitecture.Infrastructure",
-      "projectPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/ClearArchitecture.Infrastructure.csproj",
-      "packagesPath": "/Users/yimy/.nuget/packages/",
-      "outputPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/obj/",
+      "projectPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Infrastructure\\ClearArchitecture.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\yilma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/yimy/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\yilma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/ClearArchitecture.Application.csproj": {
-              "projectPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/ClearArchitecture.Application.csproj"
+            "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Application\\ClearArchitecture.Application.csproj": {
+              "projectPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Application\\ClearArchitecture.Application.csproj"
             }
           }
         }
@@ -99,7 +100,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,3 +10,15 @@
 /Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/refint/ClearArchitecture.Contracts.dll
 /Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ClearArchitecture.Contracts.pdb
 /Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/Debug/net6.0/ref/ClearArchitecture.Contracts.dll
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\bin\Debug\net6.0\ClearArchitecture.Contracts.deps.json
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\bin\Debug\net6.0\ClearArchitecture.Contracts.dll
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\bin\Debug\net6.0\ClearArchitecture.Contracts.pdb
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\obj\Debug\net6.0\ClearArchitecture.Contracts.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\obj\Debug\net6.0\ClearArchitecture.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\obj\Debug\net6.0\ClearArchitecture.Contracts.AssemblyInfoInputs.cache
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\obj\Debug\net6.0\ClearArchitecture.Contracts.AssemblyInfo.cs
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\obj\Debug\net6.0\ClearArchitecture.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\obj\Debug\net6.0\ClearArchitecture.Contracts.dll
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\obj\Debug\net6.0\refint\ClearArchitecture.Contracts.dll
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\obj\Debug\net6.0\ClearArchitecture.Contracts.pdb
+C:\Users\yilma\OneDrive\Documentos\GitHub\CleanArchitetureNetCore6\ClearArchitecture.Contracts\obj\Debug\net6.0\ref\ClearArchitecture.Contracts.dll

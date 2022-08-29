@@ -8,26 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yilma\\.nuget\\packages\\": {}
+    "/Users/yimy/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Contracts\\ClearArchitecture.Contracts.csproj",
+      "projectUniqueName": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/ClearArchitecture.Contracts.csproj",
       "projectName": "ClearArchitecture.Contracts",
-      "projectPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Contracts\\ClearArchitecture.Contracts.csproj",
-      "packagesPath": "C:\\Users\\yilma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Contracts\\obj\\",
+      "projectPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/ClearArchitecture.Contracts.csproj",
+      "packagesPath": "/Users/yimy/.nuget/packages/",
+      "outputPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yilma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/yimy/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -59,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

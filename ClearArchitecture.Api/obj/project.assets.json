@@ -80,39 +80,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yilma\\.nuget\\packages\\": {}
+    "/Users/yimy/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Api\\ClearArchitecture.Api.csproj",
+      "projectUniqueName": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Api/ClearArchitecture.Api.csproj",
       "projectName": "ClearArchitecture.Api",
-      "projectPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Api\\ClearArchitecture.Api.csproj",
-      "packagesPath": "C:\\Users\\yilma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Api\\obj\\",
+      "projectPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Api/ClearArchitecture.Api.csproj",
+      "packagesPath": "/Users/yimy/.nuget/packages/",
+      "outputPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yilma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/yimy/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Application\\ClearArchitecture.Application.csproj": {
-              "projectPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Application\\ClearArchitecture.Application.csproj"
+            "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/ClearArchitecture.Application.csproj": {
+              "projectPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Application/ClearArchitecture.Application.csproj"
             },
-            "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Contracts\\ClearArchitecture.Contracts.csproj": {
-              "projectPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Contracts\\ClearArchitecture.Contracts.csproj"
+            "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/ClearArchitecture.Contracts.csproj": {
+              "projectPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/ClearArchitecture.Contracts.csproj"
             },
-            "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Infrastructure\\ClearArchitecture.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Infrastructure\\ClearArchitecture.Infrastructure.csproj"
+            "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/ClearArchitecture.Infrastructure.csproj": {
+              "projectPath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Infrastructure/ClearArchitecture.Infrastructure.csproj"
             }
           }
         }
@@ -144,7 +143,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

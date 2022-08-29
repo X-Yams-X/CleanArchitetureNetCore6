@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OF9dw86j+yHoSw4ZwH9SML51pjH4dEHjgULuQluSAOMh52VdC2Man7EcDF5DUSmJTzQg/1mITdVCkKKV8KBUmg==",
+  "dgSpecHash": "p1kAGELnjqlKuaxn9OKWI0dYz+IPCh2HoIzam1je2HG7skQ39g+HixAbwKtDJxPJElHam19hUAt5Pth5ySFCnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yilma\\OneDrive\\Documentos\\GitHub\\CleanArchitetureNetCore6\\ClearArchitecture.Contracts\\ClearArchitecture.Contracts.csproj",
+  "projectFilePath": "/Users/yimy/Documents/WorkPlaceC#/ClearArchitecture/ClearArchitecture.Contracts/ClearArchitecture.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

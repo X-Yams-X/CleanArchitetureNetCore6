@@ -1,1 +1,1 @@
-GET  https://localhost:7057/WeatherForecast 
+GET  https://localhost:7057/Client/listClient
